@@ -1,0 +1,27 @@
+{
+  "name": "open-api",
+  "version": "1.0.0",
+  "description": "\"# Open-Ai\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VickyGirase/Open-Ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VickyGirase/Open-Ai/issues"
+  },
+  "homepage": "https://github.com/VickyGirase/Open-Ai#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "openai": "^6.19.0"
+  }
+}
